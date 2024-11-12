@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF8E1;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0bc4e;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    color: #5e4612;
+    font-size: 2em;
+  }
+  
+  #introduccion, #video-tutorial, #consejos {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #video-tutorial a {
+    color: #bb6713;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: square;
+    padding-left: 20px;
+    text-align: left;
+  }
+  
